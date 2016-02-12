@@ -1,0 +1,3 @@
+## CORS (Cross-Origin Resource Sharing)
+
+避けて通れません...
