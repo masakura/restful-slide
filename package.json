@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:masakura/rest-slide.git"
+    "url": "git@github.com:masakura/restful-slide.git"
 
   },
   "scripts": {
