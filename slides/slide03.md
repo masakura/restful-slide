@@ -5,4 +5,4 @@
 3. サーバーはブラウザーにデータを返す
 4. ブラウザーは JavaScript でデータを HTML に加工し、利用者に見やすい形で表示する
 
-ToDo 分かりやすい図!
+![API のフロー](resources/api-flow.jpg) <!-- .element: style="height: 300px;" -->

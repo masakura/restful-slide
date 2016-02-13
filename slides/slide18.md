@@ -4,4 +4,4 @@
   - `オリジン` が等しくないサイトへのアクセスができない
   - セキュリティのため!
 
-ToDo 分かりやすい図!
+![同一生成元ポリシー](resources/same-origin-policy.jpg) <!-- .element: style="height: 400px" -->

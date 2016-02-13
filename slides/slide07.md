@@ -7,4 +7,4 @@
 * `Response Headers` の `content-type`
   - `text/html` が HTML ですが、`image/jpeg`・`text/css` も!
 
-ToDo スクリーンショット
+![Network](resources/homepage.jpg) <!-- .element: style="height: 400px" -->
